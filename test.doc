@@ -1,0 +1,23 @@
+System szkolenia dla kandydatów na myśliwego.
+
+Aplikacja internetowa ma na celu przygotowanie kandydatów do egzaminu na myśliwego. System składa się z działu dydaktycznego, zawierającego materiały w formie dokumentów szkoleniowych ( np. kodeks myśliwego ).  Kolejnym elementem są dostępne testy z podziałem na kategorie  pytań ( bezpieczeństwo, broń, zwierzyna itp. ) oraz testy składające się z losowych pytań ze wszystkim dziedzin. 
+Użytkownik zalogowany lub gość po wypełnieniu dowolnego testu otrzymuje wynik procentowy oraz ma możliwość powrotu do pytań w, których popełnił błąd ( ze wskazaniem prawidłowej odpowiedzi ) 
+Dla osoby zalogowanej kolejne rozwiązane testy są zapisywane  do systemu i dostępne w zakładce  „Moje wyniki”, gdzie użytkownik może obserwować postęp prac.
+Role:
+Gość, użytkownik.
+Wymagania:
+•	Jako gość mam możliwość rejestracji w systemie.
+•	Jako gość mam możliwość zalogowania do systemu.
+•	Jako gość mam możliwość rozwiązania testu składającego się z pytań z wybranej dziedziny.
+•	Jako gość mam możliwość rozwiązania testu składającego się z losowych pytań.
+•	Jako gość mam dostęp do wyniku procentowanego po rozwiązaniu testu.
+•	Jako gość mam możliwość sprawdzenia błedów popełnionych w rozwiązanym tescie.
+•	Jako użytkownik mam możliwość wylogowania z systemu.
+•	Jako użytkownik mam możliwość rozwiązania testu składającego się z pytań z wybranej dziedziny.
+•	Jako użytkownik mam możliwość rozwiązania testu składającego się z losowych pytań.
+•	Jako użytkownik mam dostęp do wyniku procentowanego po rozwiązaniu testu.
+•	Jako użytkownik mam możliwość sprawdzenia błedów popełnionych w rozwiązanym tescie.
+•	Jako użytkownik mam możliwość sprawdzenia wyników z poprzednio rozwiązanych testów.
+
+Bartosz Smyk
+grupa 212 B
